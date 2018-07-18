@@ -1,0 +1,24 @@
+{
+  "name": "react-app-rewire-uglify",
+  "version": "1.0.0",
+  "description": "Modify UglifyJsPlugin from a react-app-rewired config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semcelik/react-app-rewire-uglify.git"
+  },
+  "keywords": [
+    "create-react-app",
+    "react-app-rewired",
+    "uglify"
+  ],
+  "author": "semcelik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semcelik/react-app-rewire-uglify/issues"
+  },
+  "homepage": "https://github.com/semcelik/react-app-rewire-uglify#readme",
+  "dependencies": {
+    "uglifyjs-webpack-plugin": "^1.2.7"
+  }
+}
